@@ -52,5 +52,5 @@ function onError(error) {
 function onListening() {
   const addr = server.address()
   const bind = typeof addr === "string" ? "pipe " + addr : "port " + addr.port
-  console.log("--- \n Cermin Web is listening on " + bind + " \n---")
+  console.log("--- \n App is listening on " + bind + " \n---")
 }
