@@ -2,7 +2,7 @@
 import React, {Component} from 'react'
 import Helmet from '../../components/Helmet'
 import BtnFollow from '../../components/buttons/user/BtnFollow'
-import BtnDelete from '../../components/buttons/user/BtnDelete'
+// import BtnDelete from '../../components/buttons/user/BtnDelete'
 
 // others
 import {connect} from 'react-redux'
