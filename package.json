@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "formidable": "^1.1.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
